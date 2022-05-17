@@ -1,3 +1,14 @@
 body {
-  background-color: aquamarine;
+  background-color: #92c9ff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+a {
+  font-size: 30px;
+}
+
+img {
+  width: 60%;
 }
